@@ -5,14 +5,14 @@ export function Header() {
   return (
     <div className="header">
       <div>
-        <h1>Hi, i´m Robson!</h1>
+        <h1>Hi, i´m Robson!👋</h1>
         <h2>Software Engineer</h2>
       </div>
       <Image
-        src="/next.svg"
+        src="/eu.jpeg"
         alt="Next.js Logo"
-        width={100}
-        height={24}
+        width={325}
+        height={310}
         priority
       />
     </div>
