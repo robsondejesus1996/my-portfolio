@@ -1,21 +1,10 @@
 import Image from "next/image";
+import { Header } from "./components/header/Header";
 
 export default function Home() {
   return (
     <main>
-      <div className="header">
-        <Image
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-        <div>
-          <h1>Hi, i´m Robson!</h1>
-          <h2>Software Engineer</h2>
-        </div>
-      </div>
+      <Header/>
       <div className="experience">
         <h3>Experience</h3>
         <p>
