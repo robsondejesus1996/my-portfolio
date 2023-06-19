@@ -14,10 +14,10 @@ export default function Home() {
       <Info />
       <div className="buttons">
         <SocialBtns />
-        <button className="btn-primary">
+        <a className="btn-primary" href="mailto:robsondejesus1996@hotmail.com">
           Contact me
           <EmailIcos />
-        </button>
+        </a>
       </div>
     </main>
   );

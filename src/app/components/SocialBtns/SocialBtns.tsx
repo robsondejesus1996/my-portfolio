@@ -8,16 +8,16 @@ import "./socilaBtns.scss"
 export function SocialBtns() {
   return (
     <div className="social">
-      <a href="">
+      <a target="_blank" href="https://www.instagram.com/">
         <InstalIcons />
       </a>
-      <a href="">
+      <a target="_blank" href="https://www.linkedin.com/in/robson-jesus-88a2a351/">
         <LinkedinIcons />
       </a>
-      <a href="">
+      <a target="_blank" href="https://twitter.com/">
         <TwitterIcons />
       </a>
-      <a href="">
+      <a target="_blank" href="https://github.com/robsondejesus1996">
         <GitIcons />
       </a>
     </div>
