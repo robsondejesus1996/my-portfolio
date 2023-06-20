@@ -12,7 +12,8 @@ export function Header() {
           tecnologias de desenvolvimento. Cada fez mais apaixonado pelas maiores
           tecnologias como Java, Python, ReactJS & NextJS.{" "}
         </h2>
-        <a href="https://github.com/robsondejesus1996" target="_blank" rel="noopener noreferrer">Acompanhe meus projetos no Github</a>
+        <h1><a href="https://github.com/robsondejesus1996" target="_blank" rel="noopener noreferrer">*Projetos no Github</a></h1>
+        
       </div>
       <Image
         src="/eu.jpeg"

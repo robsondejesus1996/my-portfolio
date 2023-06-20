@@ -1,7 +1,7 @@
 :root {
     --text-primary: white;
-    --text-secondary: #B3B3B3;
-    --bg-primary: #2C2C2C;
+    --text-secondary: white;
+    --bg-primary: white;
   }
   
   * {
@@ -17,5 +17,5 @@
   }
   
   body {
-    background-color: var(--bg-primary);
+    background-color: rgb(7, 6, 6);
   }
